@@ -64,14 +64,14 @@ ul {
 
 li{
 	border-top:1px solid rgba(48, 0, 181,1);
-	font-size:2em;
+	font-size:1.6em;
 	display: block;
 }
 
 
 li .location{
 	border-top:1px solid rgba(48, 0, 181,1);
-	font-size:.5em;
+	font-size:.6em;
 	margin-left:10px;
 	display:inline-block;
 	padding:.5em;
@@ -87,7 +87,7 @@ li .location{
 
 li a{
 	display: block;
-	padding:1.6em;
+	padding:4vw;
 	text-decoration: none;
 	color:inherit;
 	transition:300ms;
