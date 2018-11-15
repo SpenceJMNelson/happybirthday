@@ -64,7 +64,25 @@ ul {
 
 li{
 	border-top:1px solid rgba(48, 0, 181,1);
-	font-size:1.3em;
+	font-size:2em;
+	display: block;
+}
+
+
+li .location{
+	border-top:1px solid rgba(48, 0, 181,1);
+	font-size:.5em;
+	margin-left:10px;
+	display:inline-block;
+	padding:.5em;
+	border:none;
+}
+
+.viewalllink {
+	position: -webkit-sticky;
+  position: sticky;
+  top:0;
+  background: rgba(48, 0, 181,.8);
 }
 
 li a{
